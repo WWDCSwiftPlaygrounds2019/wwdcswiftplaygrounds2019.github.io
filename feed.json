@@ -15,7 +15,7 @@
             "url": "https://WWDCSwiftPlaygrounds2019.github.io/SignMeUp/SignMeUp.playgroundbook.zip",
             "publishedDate": "2019-06-02T12:00:00+00:00",
             "lastUpdatedDate": "2019-06-02T12:00:00+00:00",
-            "attributes": ["short", "graphical", "usesCamera", "augmentedReality"]
+            "attributes": ["short", "graphical", "usesCamera", "augmentedReality"],
             "thumbnailURL": "SignMeUp/thumbnail.png",
             "bannerImageURL": "SignMeUp/bannerImage.png",
             "additionalInformation": [
@@ -36,7 +36,7 @@
     		"url": "https://WWDCSwiftPlaygrounds2019.github.io/MarbleMania/MarbleMania.playgroundbook.zip",
     		"publishedDate": "2019-06-02T12:00:00-00:00",
    			"lastUpdatedDate": "2019-06-02T12:00:00-00:00",
-            "attributes": ["gameBuilding", "gameLike", "usesMotion", "physics"]
+            "attributes": ["gameBuilding", "gameLike", "usesMotion", "physics"],
    	 	    "thumbnailURL": "MarbleMania/thumbnail.png",
    	 		"bannerImageURL": "MarbleMania/bannerImage.png",
             "additionalInformation": [
