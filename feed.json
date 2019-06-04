@@ -1,0 +1,49 @@
+{
+    "title": "Swift Playgrounds WWDC19",
+    "publisherName": "Jonathan and Grace",
+    "feedIdentifier": "io.github.WWDCSwiftPlaygrounds2019",
+    "contactURL": "mailto:gkendall@apple.com",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "Sign Me Up",
+            "overviewSubtitle": "Core ML and Vision with ASL.",
+            "detailSubtitle": "Core ML and Vision with ASL.",
+            "description": "A demo book from WWDC2019 that uses the Vision framework and Core ML framework to recognize sign language and apply custom drawings.",
+            "contentIdentifier": "io.github.WWDCSwiftPlaygrounds2019.signMeUp",
+            "contentVersion": "1.0",
+            "url": "https://WWDCSwiftPlaygrounds2019.github.io/SignMeUp/SignMeUp.playgroundbook.zip",
+            "publishedDate": "2019-06-02T12:00:00+00:00",
+            "lastUpdatedDate": "2019-06-02T12:00:00+00:00",
+            "thumbnailURL": "SignMeUp/thumbnail.png",
+            "bannerImageURL": "SignMeUp/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        },
+        {
+    		"title": "Marble Mania",
+			"overviewSubtitle": "A fun side-scrolling infinite running game.",
+			"detailSubtitle": "A fun side-scrolling infinite running game.",
+			"description": "Part of a series of playgrounds around image filtering.",
+			"contentIdentifier": "io.github.WWDCSwiftPlaygrounds2019.marbleMania",
+			"contentVersion": "1.0",
+    		"url": "https://WWDCPhotoFilters.github.io/MarbleMania/MarbleMania.playgroundbook.zip",
+    		"publishedDate": "2019-06-02T12:00:00-00:00",
+   			"lastUpdatedDate": "2019-06-02T12:00:00-00:00",
+   	 	    "thumbnailURL": "MarbleMania/thumbnail.png",
+   	 		"bannerImageURL": "MarbleMania/bannerImage.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": []
+        }
+    ]
+}
