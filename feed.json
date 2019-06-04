@@ -6,7 +6,7 @@
     "formatVersion": "1.0",
     "documents": [
         {
-            "title": "Sign Me Up",
+            "title": "Sign Me Up!",
             "overviewSubtitle": "Core ML and Vision with ASL.",
             "detailSubtitle": "Core ML and Vision with ASL.",
             "description": "A demo book from WWDC2019 that uses the Vision framework and Core ML framework to recognize sign language and apply custom drawings.",
