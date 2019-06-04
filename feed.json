@@ -30,7 +30,7 @@
     		"title": "Marble Mania",
 			"overviewSubtitle": "A fun side-scrolling infinite running game.",
 			"detailSubtitle": "A fun side-scrolling infinite running game.",
-			"description": "Part of a series of playgrounds around image filtering.",
+            "description": "This is a playground book derived from the blank template in Swift Playgrounds 3. The individual pages each demonstrate some of the steps leading up the last page which runs the game. \nTilt the iPad to control a marble rolling through an obstacle course with holes you should avoid. If you fall out into a hole, tap to start over. Rolling faster increases the score.",
 			"contentIdentifier": "io.github.WWDCSwiftPlaygrounds2019.marbleMania",
 			"contentVersion": "1.0",
     		"url": "https://WWDCSwiftPlaygrounds2019.github.io/MarbleMania/MarbleMania.playgroundbook.zip",
